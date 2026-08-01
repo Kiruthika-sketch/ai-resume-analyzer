@@ -5,7 +5,7 @@ import MetricsGrid from "./components/MetricsGrid";
 import JDMatch from "./components/JDMatch";
 import Suggestions from "./components/Suggestions";
 
-const API_BASE = process.env.REACT_APP_API_BASE || "http://localhost:5000";
+const API_BASE = process.env.REACT_APP_API_BASE || "https://ai-resume-analyzer-chon.onrender.com";;
 
 export default function App() {
   const [result, setResult] = useState(null);
