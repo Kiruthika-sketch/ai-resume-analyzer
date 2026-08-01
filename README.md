@@ -13,8 +13,7 @@ add an API key.
 - **JD matching** — paste a job description to get a match %, matched/missing
   keywords, and matched/missing skills
 - **Rule-based tips** — concrete, always-on suggestions (no API key needed)
-- **Optional AI feedback** — if `ANTHROPIC_API_KEY` is set, Claude adds a
-  summary, strengths/weaknesses, bullet-point rewrites, and a fit-for-role note
+
 
 ## Folder structure
 
